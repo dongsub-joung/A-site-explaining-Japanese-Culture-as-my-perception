@@ -34,11 +34,13 @@ by Google's Gemini
 
 The Mahouka story started at that point. So the Mahouka story adapted “Thesis-Antithesis-Synthesis” in their story.
 
-\- Thesis: Shiba Tatsuya had Course 2 lacking in practical skills compared to their Course 1 counterparts.
+* Thesis: Shiba Tatsuya had Course 2 lacking in practical skills compared to their Course 1 counterparts.
+* Antithesis: Actually, Shiba Tatsuya can, but Shiba Tatsuya’s information has been covered by Japan’s military army force. So Shiba Miyuki tries to defend, looking down at Shiba Tatsuya from the Course 1 students.
+* Synthesis: Shiba Tatsuya and Shiba Miyuki are making their team(=friends), including Course 1 students. Then, they solve a bigger problem.
 
-\- Antithesis: Actually, Shiba Tatsuya can, but Shiba Tatsuya’s information has been covered by Japan’s military army force. So Shiba Miyuki tries to defend, looking down at Shiba Tatsuya from the Course 1 students.
-
-\- Synthesis: Shiba Tatsuya and Shiba Miyuki are making their team(=friends), including Course 1 students. Then, they solve a bigger problem.
+{% hint style="info" %}
+Synthesis: It's about the Evolution of the System. The Course 1 students stop seeing Tatsuya as a "Retard" (Course 2) and start seeing him as a Strategic Asset, which is the ultimate synthesis of the school's logic and the military's reality.
+{% endhint %}
 
 {% hint style="success" %}
 #### 2. The Hegelian Dialectic of First High <a href="#docs-internal-guid-e481f381-7fff-ca68-4369-a21d16b3110e" id="docs-internal-guid-e481f381-7fff-ca68-4369-a21d16b3110e"></a>
@@ -153,7 +155,7 @@ Will you forgive me now
 
 ## [佐藤ミキ『名もない花』M/V（「魔法科高校の劣等生 来訪者編」ED\_発売中）【FULL ver.】](https://www.youtube.com/watch?v=NcbxaJgPEr0)
 
-## [mahouka-koukou-no-rettousei.fandom.com/wiki](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Second_High_School)
+## [mahouka fandom wiki](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Second_High_School)
 
 ## [Google's Gemini](https://docs.google.com/document/d/1KW1mDdl6cWbQkR6bbT1KWKVk8eBLuLa9kKrFnQt3moE/edit?usp=sharing)
 
