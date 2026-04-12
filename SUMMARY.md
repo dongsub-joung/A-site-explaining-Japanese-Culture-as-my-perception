@@ -1,3 +1,7 @@
 # Table of contents
 
 * [About A site explaining Japanese songs, poem, and so on as my perception](README.md)
+
+## For\_Japanese\_language
+
+* [魔法科高校の劣等生 来訪者編EDー名もない花”の解説記事](for_japanese_language/no-edmonaino.md)
