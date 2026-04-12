@@ -7,7 +7,7 @@ description: Google's Geminiとの協力で作られております。
 {% embed url="https://www.youtube.com/watch?v=NcbxaJgPEr0" %}
 
 \
-私のお気に入りであり,本当に魔法科高校の劣等生に相応しいいい曲だったので選び慕いました！
+私のお気に入りであり,本当に魔法科高校の劣等生に相応しいいい曲だったので選び致しました！
 
 {% hint style="success" %}
 5.8(Fri) ROADSHOW　劇場版「魔法科高校の劣等生 四葉継承編」！！
