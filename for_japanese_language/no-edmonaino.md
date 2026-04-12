@@ -13,7 +13,7 @@ description: Google's Geminiとの協力で作られております。
 
 ***
 
-#### 一般的な解釈
+## 一般的な解釈
 
 > 不器用な手の平で
 >
@@ -264,7 +264,7 @@ by Google's Gemini
 
 ## Ref
 
-#### [佐藤ミキ『名もない花』M/V（「魔法科高校の劣等生 来訪者編」ED\_発売中）【FULL ver.】](https://www.youtube.com/watch?v=NcbxaJgPEr0)
+### [佐藤ミキ『名もない花』M/V（「魔法科高校の劣等生 来訪者編」ED\_発売中）【FULL ver.】](https://www.youtube.com/watch?v=NcbxaJgPEr0)
 
 ### [https://gemini.google.com/share/2c8f6f24ac17](https://gemini.google.com/share/2c8f6f24ac17)
 
