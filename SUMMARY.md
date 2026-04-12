@@ -10,6 +10,10 @@
 
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
 
+## Small\_Talk\_With\_Google\_Gemini
+
+* [After Master algorithm, Human-written poem](small_talk_with_google_gemini/after-master-algorithm-human-written-poem.md)
+
 ## Garbage
 
 * [마고열(마법고교의 열등생) 한국어 분석](garbage/undefined.md)
