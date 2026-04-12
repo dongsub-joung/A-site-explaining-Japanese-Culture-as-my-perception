@@ -9,3 +9,8 @@
 ## FOR\_ENGLISH\_LANGUAGE
 
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
+
+## Garbage
+
+* [Page 1](garbage/page-1.md)
+* [Copy of Page 1](garbage/copy-of-page-1.md)
