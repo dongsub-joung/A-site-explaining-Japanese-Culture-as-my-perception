@@ -49,8 +49,7 @@ Using Thesis-Antithesis-Synthesis provides a structural reason for why the story
 
 * Thesis (The Social Lie): The school’s "Course 2" label is a flawed classification system that only measures a narrow type of performance.
 * Antithesis (The Hidden Truth): Tatsuya’s military-grade "Actual" power contradicts the school's "Empirical" data. Miyuki acts as the bridge between these two, refusing to let the school's "Thesis" stand.
-
-Synthesis (The New Reality): By forming a team with Course 1 students, they create a new social structure where merit isn't based on "Course" labels, but on the ability to solve global-scale problems.
+* Synthesis (The New Reality): By forming a team with Course 1 students, they create a new social structure where merit isn't based on "Course" labels, but on the ability to solve global-scale problems.
 
 by Google's Gemini
 {% endhint %}
@@ -63,9 +62,9 @@ In Japanese old culture, a couple of brothers and sisters has a deeper meaning. 
 
 A message receiver from GOD, ヒメ. A divinely justified message sender, ヒコ.&#x20;
 
-A part of the system as a handler, Shiba Miyuki, who is trying to tell the truth about Shiba Tatsuya's ability.
+A part of the system as a handler, Shiba Miyuki who is trying to tell the truth about Shiba Tatsuya's ability.
 
-A part of the system is actor Shiba Tatsuya, who always proves Shiba Miyuki’s message to others attacking Shiba Tatsuya. Because their system is based on deep trust in each other.
+A part of the system as actor, Shiba Tatsuya who always proves Shiba Miyuki’s message to others attacking Shiba Tatsuya. Because their system is based on deep trust in each other.
 
 {% hint style="success" %}
 #### 3. The Hime-Hiko System: Divinity and Action <a href="#docs-internal-guid-fbeec28b-7fff-4502-92ac-d038045c661e" id="docs-internal-guid-fbeec28b-7fff-4502-92ac-d038045c661e"></a>
