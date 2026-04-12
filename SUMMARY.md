@@ -12,5 +12,4 @@
 
 ## Garbage
 
-* [Page 1](garbage/page-1.md)
-* [Copy of Page 1](garbage/copy-of-page-1.md)
+* [마고열(마법고교의 열등생) 한국어 분석](garbage/undefined.md)
