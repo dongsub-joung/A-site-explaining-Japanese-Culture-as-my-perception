@@ -35,7 +35,7 @@ by Google's Gemini
 The Mahouka story started at that point. So the Mahouka story adapted “Thesis-Antithesis-Synthesis” in their story.
 
 * Thesis: Shiba Tatsuya had Course 2 lacking in practical skills compared to their Course 1 counterparts.
-* Antithesis: Actually, Shiba Tatsuya can, but Shiba Tatsuya’s information has been covered by Japan’s military army force. So Shiba Miyuki tries to defend, looking down at Shiba Tatsuya from the Course 1 students.
+* Antithesis: Actually, Shiba Tatsuya can, but Shiba Tatsuya’s information has been covered by Japan’s military army force. So Shiba Miyuki tries to defend from the Course 1 students.looking down at Shiba Tatsuya&#x20;
 * Synthesis: Shiba Tatsuya and Shiba Miyuki are making their team(=friends), including Course 1 students. Then, they solve a bigger problem.
 
 {% hint style="info" %}
