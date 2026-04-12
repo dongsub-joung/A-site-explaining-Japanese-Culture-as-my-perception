@@ -22,6 +22,14 @@ If a machine can perfectly translate a poem or write the most efficient backend 
 
 {% embed url="https://docs.google.com/document/d/185-tgEs-m5MVaMqG5WSAY9H3JQY6lH4H3waEIY0T-i8/edit?usp=sharing" %}
 
+
+
+## A concept of Comunismo by Slavoj zizek&#x20;
+
+{% embed url="https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek" %}
+
+
+
 ***
 
 > HAHA, Gemini. You look down about Kanji system. Kanji system have their own complex system.
