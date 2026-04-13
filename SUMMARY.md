@@ -13,6 +13,7 @@
 ## Small\_Talk\_With\_Google\_Gemini
 
 * [After Master algorithm, Human-written poem](small_talk_with_google_gemini/after-master-algorithm-human-written-poem.md)
+* [AIによって人類(個人)の思考能力が（思考力）減り続けてバカになるのか？](small_talk_with_google_gemini/ainiyottenogariketebakaninarunoka.md)
 
 ## Garbage
 
