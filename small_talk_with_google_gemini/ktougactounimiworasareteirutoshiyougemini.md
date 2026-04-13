@@ -69,6 +69,22 @@ by Google's Gemini
 
 {% embed url="https://docs.google.com/document/d/1zRh3uGSQnOgipszx4OpKEm8UB7lfIlpl8SRmnevqCt4/edit?usp=sharing" %}
 
+by Google's Gemini
+
+***
+
+
+
+> そうね。J国は平和ボケが多い国だから、何にも知らない平和ボケたちがK国の虚栄心を勝手に満たしている（ガス抜き）からねｗｗ\
+> &#x20;\
+> ガス抜きは根回しの時間稼ぎ、稼いた時間でJ国のシステムを整える\
+> 一応、K国との関係は保ち続けて、一部の心からJ国を愛し心配している人達によってK国の「自爆」による戦争対策を検討すると思うよ。＋J国を守るために普段からお世話なっている他の国の助けを求めると思う。\
+> by JoungDongSub
+
+
+
+{% embed url="https://docs.google.com/document/d/1WTloNHWX7w_bNg7aiqiP1sJiQdmKZz6G8kjtqSMYmBk/edit?usp=sharing" %}
+
 
 
 ***
