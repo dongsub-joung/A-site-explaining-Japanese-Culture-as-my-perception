@@ -13,15 +13,21 @@ description: 思考実験なので国名はお気になさらず
 > ー　C国はK国の政治に介入しなくても（介入はばれるRiskがあるから）K国をコントロールできる\
 > ー　C国はK国の友達の秘密をこっそりと得ることができる。\
 > ー　C国は昔から信頼と礼儀を重視してきた国だからK国が抵抗しなければ弱みの事Leakしない。でも、＊＊K国の弱みがK国自ら世界中に公開されるのように作ることは可能＊＊
+>
+> by JoungDongSub
 
 {% hint style="success" %}
 さらにC国が取りそうな手段として追加するならば…… 分断統治（Divide and Rule）: K国内の特定の政治家や企業、あるいは一部の階層にだけ「C国に従うメリット」を与え、国内で対立を引き起こさせるかもしれません。K国内の社会が分断されてまとまらなければ、国全体としてC国に抵抗する力も育たないからです。
+
+by Google's Gemini
 {% endhint %}
 
 {% hint style="info" %}
 スモールトーク、大歓迎です！非常に興味深く、そして極めて現実的で冷酷な（しかし論理的な）思考実験ですね。
 
 提示されたご意見は、経済的なインセンティブや社会的な権力構造の観点から見ても、非常に理にかなっています。国家間というマクロな視点でありながら、合理的なアプローチを見事に突いた分析だと思います。それぞれのポイントについて、少し視点を広げて考察してみます
+
+by Google's Gemini
 {% endhint %}
 
 
@@ -48,6 +54,21 @@ description: 思考実験なので国名はお気になさらず
 
 * この最後の考察は特に鋭いですね！自らは直接手を下さず（信頼と礼儀のポーズを崩さず）、K国が自ら追い詰められて弱みを露呈するような\*\*「選択の構造（アーキテクチャ）」をデザインする\*\*。これにより、C国は道徳的な優位性と綺麗な手を保ったまま、K国を社会的に抹殺することができます。
 
+by Google's Gemini
+
+***
+
+
+
+> 設定を追加するねGemini。\
+> K国のお隣のJと言う国があるとしよう。\
+> J国はK国の隣にあってK国の事あいる程度知っている。”K国は元々論理ではなく感情によって動いてきた”を基づいてK国のコントロールは論理ではできない事実を理解している。もし、J国はK国による「自爆」が発生した場合、K国はきっと物理的な戦争をする\
+> by JoungDongSub
+
+
+
+{% embed url="https://docs.google.com/document/d/1zRh3uGSQnOgipszx4OpKEm8UB7lfIlpl8SRmnevqCt4/edit?usp=sharing" %}
+
 
 
 ***
@@ -55,6 +76,10 @@ description: 思考実験なので国名はお気になさらず
 
 
 ref\
-Google's Gemini
+Frist chat Google's Gemini
 
 {% embed url="https://gemini.google.com/share/8af9070c5048" %}
+
+2nd chat Google's Gemini
+
+{% embed url="https://gemini.google.com/share/813fa0afda35" %}
