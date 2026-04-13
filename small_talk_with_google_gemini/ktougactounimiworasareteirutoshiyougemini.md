@@ -4,6 +4,8 @@ description: 思考実験なので国名はお気になさらず
 
 # Kと言う国がCと言う国に弱みを握らされているとしよう。Gemini
 
+## 1
+
 > Let's start our small talk :) Gemini.\
 > もし、Kと言う国がCと言う国に弱みを握らされているとしよう。K国の弱点はその弱点がばらしたら場合、世界中から笑いものにされ国と名乗れなくほどの弱み。C国はK国をどうするんでしょうか？
 >
@@ -58,7 +60,7 @@ by Google's Gemini
 
 ***
 
-
+## 2
 
 > 設定を追加するねGemini。\
 > K国のお隣のJと言う国があるとしよう。\
@@ -73,7 +75,7 @@ by Google's Gemini
 
 ***
 
-
+## 3
 
 > そうね。J国は平和ボケが多い国だから、何にも知らない平和ボケたちがK国の虚栄心を勝手に満たしている（ガス抜き）からねｗｗ\
 > &#x20;\
@@ -84,6 +86,28 @@ by Google's Gemini
 
 
 {% embed url="https://docs.google.com/document/d/1WTloNHWX7w_bNg7aiqiP1sJiQdmKZz6G8kjtqSMYmBk/edit?usp=sharing" %}
+
+by Google's Gemini
+
+***
+
+## 4
+
+> それでJ国は実際の戦争まではいかに事を知っている。だが、J国のシステム改革を警戒心に基づいて一部のJ国民や他の国に今の困難さをアピールする事が可能。J国は元々平和好きで信頼の下で動いている国だから。きっとJ国のアピールは効くはず。 by JoungDongSub
+
+
+
+{% embed url="https://docs.google.com/document/d/1_sylm01UUez_zmIo8N9-MBdRLHobP72ZWrT43_ek52Y/edit?usp=sharing" %}
+
+
+
+***
+
+## 5
+
+
+
+
 
 
 
