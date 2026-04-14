@@ -64,8 +64,8 @@ by Google's Gemini
 **あるいは燃やされる人間（自国民）を利用し本当の黒幕は登場しない（韓国政府の手を汚す必要がない）**\
 **e.g) 깡통 주택(2014) -- 한국   부동산 시장   거품 형성&가속화(almost A decade) --> 빌라왕 사건(**_**2022년 12월 23일 )**_
 
-**As English) "In certain systems, an incident acts as a furnace that consumes human lives. The person 'burning' is just the fuel, while the true mastermind remains invisible, never stepping into the light."**
+**As English) "In South Korea's real estate market, an incident acts as a furnace that consumes human lives. The person 'burning' is just the fuel, while the true mastermind remains invisible, never stepping into the light."**
 
-**As Japanese) "社会というクラスの中で「リソース（命）の消費」という形"**
+**As Japanese) "韓国社会というクラスの中で「リソース（自国民の命）の消費」という形で韓国のバブル経済を高める"**
 
 by JoungDongSub
