@@ -72,12 +72,14 @@ by JoungDongSub
 
 
 
-## South Koreans called it "핵발전"
+## South Koreans called it "핵 발전"
 
-### Its mean "Uranium == South Korean nationality citizen" , "Radiation == South Korea DNA"<br>
+### Its mean "Uranium == South Korean nationality citizen" , "Radiation == South Korea DNA"
 
-### As a result)  All things bbout South Korea are 한사능.&#x20;
+### As a result)  All things about South Korea are 한사능.&#x20;
 
 ### That is "超汚染人(super polluter)"
 
-> "한사능" and "超汚染人" are not my opinion. That is just fact and logic indicated South Korean DNA.
+{% hint style="success" %}
+## **"한사능" and "超汚染人" are not my opinion. That is just fact and logic indicated South Korean DNA.**
+{% endhint %}
