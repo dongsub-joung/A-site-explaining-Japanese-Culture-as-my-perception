@@ -17,6 +17,10 @@
 * [AIによって人類(個人)の思考能力が（思考力）減り続けてバカになるのか？](small_talk_with_google_gemini/ainiyottenogariketebakaninarunoka.md)
 * [Kと言う国がCと言う国に弱みを握らされているとしよう。Gemini](small_talk_with_google_gemini/ktougactounimiworasareteirutoshiyougemini.md)
 
+## 日記
+
+* [令和8年4月14日](ri-ji/ling-he-8-nian-4-yue-14-ri.md)
+
 ## Garbage
 
 * [마고열(마법고교의 열등생) 한국어 분석](garbage/undefined.md)
