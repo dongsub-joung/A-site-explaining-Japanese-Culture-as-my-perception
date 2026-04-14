@@ -83,3 +83,11 @@ by JoungDongSub
 {% hint style="success" %}
 ## **"한사능" and "超汚染人" are not my opinion. That is just fact and logic indicated South Korean DNA.**
 {% endhint %}
+
+
+
+## Conclusion
+
+### In Japan, 「燃える」is used "Hard work on social role"（自分の立場で全力を尽くす、成し遂げる）
+
+### In South Korea, 「燃える」is used "Consuming other same South Korean for bubble economy"（共食いで韓国経済をPump upする）
