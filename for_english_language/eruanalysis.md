@@ -76,7 +76,7 @@ by JoungDongSub
 
 ### Its mean "Uranium == South Korean nationality citizen" , "Radiation == South Korea DNA"<br>
 
-### As a result)  About South Korea is 한사능.&#x20;
+### As a result)  All things bbout South Korea are 한사능.&#x20;
 
 ### That is "超汚染人(super polluter)"
 
