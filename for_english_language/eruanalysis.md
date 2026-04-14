@@ -8,6 +8,8 @@
 
 #### After work, work, work, work, and work, the person themselves turns into ash. Burn themselves out.
 
+#### 働いて働いて働いて働いて働いて、灰になる事を示す。
+
 By the Law of Equivalent Exchange, such great achievements required an equal sacrifice
 
 Following the principle of conservation of energy, the totality of a life spent 'burning' is reflected in the magnitude of the achievement
