@@ -4,9 +4,7 @@
 
 ### If 「燃える」 has a human subject,
 
-### A.
-
-#### After work, work, work, work, and work, the person themselves turns into ash. Burn themselves out.
+### A- After work, work, work, work, and work, the person themselves turns into ash. Burn themselves out.
 
 #### 働いて働いて働いて働いて働いて、灰になる事を示す。
 
@@ -38,9 +36,7 @@ by Google's Gemini
 
 
 
-### B
-
-### In Context of "炎上"
+### B- In Context of "炎上"
 
 {% hint style="success" %}
 #### Core Translations for 炎上 (Enjou)
@@ -52,24 +48,24 @@ by Google's Gemini
 by Google's Gemini
 {% endhint %}
 
-**They are caught in a firestorm of public criticism**
+**They are caught in a firestorm of public criticism(**&#x61; massive backlash)**.**
 
 
 
 
 
-### C
+### C- In Context of "火型"
 
-#### In Context of "火型"
-
-物理的人間を焼く。<br>
+物理的人間を焼く事。<br>
 
 ### 意味の拡張）本当の黒幕は登場せず、燃やされる人間だけが消費される
 
-韓国と言う国で人の命を消費し(共食い)事件（バブル経済向上）を起こす。\
-あるいは燃やされる人間（自国民）を利用し本当の黒幕は登場しない（韓国政府の手を汚す必要がない）\
-e.g) 깡통 주택(2014) -- 한국   부동산 시장   거품 형성&가속화(almost A decade) --> 빌라왕 사건(_2022년 12월 23일 )_
+**韓国と言う国で人の命を消費し(共食い)事件（バブル経済向上）を起こす。**\
+**あるいは燃やされる人間（自国民）を利用し本当の黒幕は登場しない（韓国政府の手を汚す必要がない）**\
+**e.g) 깡통 주택(2014) -- 한국   부동산 시장   거품 형성&가속화(almost A decade) --> 빌라왕 사건(**_**2022년 12월 23일 )**_
 
-As English) "In certain systems, an incident acts as a furnace that consumes human lives. The person 'burning' is just the fuel, while the true mastermind remains invisible, never stepping into the light."
+**As English) "In certain systems, an incident acts as a furnace that consumes human lives. The person 'burning' is just the fuel, while the true mastermind remains invisible, never stepping into the light."**
 
-As Japanese) "社会というクラスの中で「リソース（命）の消費」という形"
+**As Japanese) "社会というクラスの中で「リソース（命）の消費」という形"**
+
+by JoungDongSub
