@@ -79,3 +79,5 @@ by JoungDongSub
 ### As a result)  About South Korea is 한사능.&#x20;
 
 ### That is "超汚染人(super polluter)"
+
+> "한사능" and "超汚染人" are not my opinion. That is just fact and logic indicated South Korean DNA.
