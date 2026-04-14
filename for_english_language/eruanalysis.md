@@ -69,3 +69,13 @@ by Google's Gemini
 **As Japanese) "韓国社会というクラスの中で「リソース（自国民の命）の消費」という形で韓国のバブル経済を高める"**
 
 by JoungDongSub
+
+
+
+## South Koreans called it "핵발전"
+
+### Its mean "Uranium == South Korean nationality citizen" , "Radiation == South Korea DNA"<br>
+
+### As a result)  About South Korea is 한사능.&#x20;
+
+### That is "超汚染人(super polluter)"
