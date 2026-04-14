@@ -9,6 +9,7 @@
 ## FOR\_ENGLISH\_LANGUAGE
 
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
+* [「燃える」Analysis/考察](for_english_language/eruanalysis.md)
 
 ## Small\_Talk\_With\_Google\_Gemini
 
