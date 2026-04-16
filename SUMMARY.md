@@ -17,6 +17,7 @@
 * [AIによって人類(個人)の思考能力が（思考力）減り続けてバカになるのか？](small_talk_with_google_gemini/ainiyottenogariketebakaninarunoka.md)
 * [Kと言う国がCと言う国に弱みを握らされているとしよう。Gemini](small_talk_with_google_gemini/ktougactounimiworasareteirutoshiyougemini.md)
 * [What if small talk) If I'm live in Japan](small_talk_with_google_gemini/what-if-small-talk-if-im-live-in-japan.md)
+* [About Rust lang's problems(DILL hooking & L2/L3 handler & Hardwere bindgen)](small_talk_with_google_gemini/about-rust-langs-problems-dill-hooking-and-l2-l3-handler-and-hardwere-bindgen.md)
 
 ## 日記
 
