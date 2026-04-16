@@ -103,8 +103,6 @@ by Google's Gemini
 
 ***
 
-## 5
-
 
 
 

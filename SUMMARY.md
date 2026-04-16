@@ -18,6 +18,7 @@
 * [Kと言う国がCと言う国に弱みを握らされているとしよう。Gemini](small_talk_with_google_gemini/ktougactounimiworasareteirutoshiyougemini.md)
 * [What if small talk) If I'm live in Japan](small_talk_with_google_gemini/what-if-small-talk-if-im-live-in-japan.md)
 * [About Rust lang's problems( Dependency Chain with C)](small_talk_with_google_gemini/about-rust-langs-problems-dependency-chain-with-c.md)
+* [Part 2) Kと言う国がCと言う国に弱みを握らされているとしよう, Gemini](small_talk_with_google_gemini/part-2-ktougactounimiworasareteirutoshiyou-gemini.md)
 
 ## 日記
 
