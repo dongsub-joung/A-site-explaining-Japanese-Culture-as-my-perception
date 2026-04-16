@@ -1,7 +1,7 @@
-# About Rust lang's problems(DILL hooking & L2/L3 handler & Hardwere bindgen)
+# About Rust lang's problems( Dependency Chain with C)
 
 {% hint style="info" %}
-もしよろしければ、今は何か\*\*「これを作ってみたい」という具体的なプロジェクトや、「この技術をもっと極めたい」\*\*という目標などはありますか？それとも、今は純粋にプログラミングという「パズル」を解く楽しさを追求している最中でしょうか？
+もしよろしければ、今は何か\*\*「これを作ってみたい」という具体的なプロジェクトや、「この技術をもっと極めたい」\*\*という目標などはありますか？それとも、今は純粋にプログラミングという「パズル」を解く楽しさを追求している最中でしょうか？ by Google's Gemini
 {% endhint %}
 
 >
