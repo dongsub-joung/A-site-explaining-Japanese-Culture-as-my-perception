@@ -6,6 +6,7 @@
 
 * [魔法科高校の劣等生 来訪者編EDー名もない花”の解説記事](for_japanese_language/no-edmonaino.md)
 * [俺が死んでもいい](for_japanese_language/gandemoii.md)
+* [Yonsei UniversityのQuantum Computer 導入の一時と俺が chemical gasに影響されるようになった時期が被るよGemini XD](for_japanese_language/yonsei-universitynoquantum-computer-notoga-chemical-gasnisareruyouninattagaruyogemini-xd.md)
 
 ## FOR\_ENGLISH\_LANGUAGE
 
