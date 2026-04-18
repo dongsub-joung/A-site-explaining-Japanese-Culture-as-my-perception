@@ -5,6 +5,7 @@
 ## For\_Japanese\_language
 
 * [魔法科高校の劣等生 来訪者編EDー名もない花”の解説記事](for_japanese_language/no-edmonaino.md)
+* [俺が死んでもいい](for_japanese_language/gandemoii.md)
 
 ## FOR\_ENGLISH\_LANGUAGE
 
