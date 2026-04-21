@@ -1,17 +1,20 @@
 # Table of contents
 
-* [About A site explaining Japanese songs, poem, and so on as my perception](README.md)
+* [俺が死んでもいい](README.md)
+* [Yonsei UniversityのQuantum Computer 導入の一時と俺が chemical gasに影響されるようになった時期が被るよGemini XD](yonsei-universitynoquantum-computer-notoga-chemical-gasnisareruyouninattagaruyogemini-xd.md)
 
 ## For\_Japanese\_language
 
 * [魔法科高校の劣等生 来訪者編EDー名もない花”の解説記事](for_japanese_language/no-edmonaino.md)
-* [俺が死んでもいい](for_japanese_language/gandemoii.md)
-* [Yonsei UniversityのQuantum Computer 導入の一時と俺が chemical gasに影響されるようになった時期が被るよGemini XD](for_japanese_language/yonsei-universitynoquantum-computer-notoga-chemical-gasnisareruyouninattagaruyogemini-xd.md)
 
 ## FOR\_ENGLISH\_LANGUAGE
 
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
 * [「燃える」Analysis/考察](for_english_language/eruanalysis.md)
+
+## Develope\_Retrospective&#x20;
+
+* [令和8年4月21日 - One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-21-ri-one-month-left-my-last-project.md)
 
 ## Small\_Talk\_With\_Google\_Gemini
 
