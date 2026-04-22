@@ -4,6 +4,22 @@
 
 {% embed url="https://gemini.google.com/share/2fdce2d23fee" %}
 
+## conclusion
+
+> Come on, Gemini. Top1% poeple do not want to start a physical war. close game, but the loser is out.
+>
+> So i said to you a day ago, America will try to get some South Korea companies, then just use that as the China-trader, when South Korea belongs to China.
+>
+> As a result, South Korea will be abandoned by the world and America, except China/North Korea/Russia (特定アジア).<br>
+>
+> Surely the Master give own power to a good dog.
+>
+> by JoungDongSub
+
+
+
+***
+
 
 
 ### 2. Synchronization: The "Shared Cage" of 2026
