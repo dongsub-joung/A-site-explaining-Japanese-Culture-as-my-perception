@@ -11,6 +11,7 @@
 
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
 * [「燃える」Analysis/考察](for_english_language/eruanalysis.md)
+* [Synchronization - The "AA" Wrapper: The CPTPP (for Japan) and the AIIB/China-trade (for Korea)](for_english_language/synchronization-the-aa-wrapper-the-cptpp-for-japan-and-the-aiib-china-trade-for-korea.md)
 
 ## Develope\_Retrospective&#x20;
 
