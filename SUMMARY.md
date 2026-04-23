@@ -16,6 +16,7 @@
 ## Develope\_Retrospective&#x20;
 
 * [令和8年4月21日 - One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-21-ri-one-month-left-my-last-project.md)
+* [令和8年4月23日（木）- One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-23-ri-mu-one-month-left-my-last-project.md)
 
 ## Small\_Talk\_With\_Google\_Gemini
 
