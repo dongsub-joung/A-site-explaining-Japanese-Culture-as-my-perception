@@ -32,6 +32,7 @@
 
 * [令和8年4月14日](ri-ji/ling-he-8-nian-4-yue-14-ri.md)
 * [令和8年4月18日（土）](ri-ji/ling-he-8-nian-4-yue-18-ri-tu.md)
+* [令和8年4月24日](ri-ji/ling-he-8-nian-4-yue-24-ri.md)
 
 ## Garbage
 
