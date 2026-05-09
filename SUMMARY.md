@@ -12,6 +12,7 @@
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
 * [「燃える」Analysis/考察](for_english_language/eruanalysis.md)
 * [Synchronization - The "AA" Wrapper: The CPTPP (for Japan) and the AIIB/China-trade (for Korea)](for_english_language/synchronization-the-aa-wrapper-the-cptpp-for-japan-and-the-aiib-china-trade-for-korea.md)
+* [Small talk with X grok) The most humanlike Democracy System rooted a type of Japanese social trust](for_english_language/small-talk-with-x-grok-the-most-humanlike-democracy-system-rooted-a-type-of-japanese-social-trust.md)
 
 ## Small\_Talk\_With\_Google\_Gemini
 
