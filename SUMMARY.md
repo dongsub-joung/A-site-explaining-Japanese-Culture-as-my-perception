@@ -9,10 +9,10 @@
 
 ## FOR\_ENGLISH\_LANGUAGE
 
+* [Small talk with X grok) The most humanlike Democracy System rooted a type of Japanese social trust](for_english_language/small-talk-with-x-grok-the-most-humanlike-democracy-system-rooted-a-type-of-japanese-social-trust.md)
 * [Miki Sato「Namonai Hana」Lyric Analysis article](for_english_language/miki-sato-namonai-hana-lyric-analysis-article.md)
 * [「燃える」Analysis/考察](for_english_language/eruanalysis.md)
 * [Synchronization - The "AA" Wrapper: The CPTPP (for Japan) and the AIIB/China-trade (for Korea)](for_english_language/synchronization-the-aa-wrapper-the-cptpp-for-japan-and-the-aiib-china-trade-for-korea.md)
-* [Small talk with X grok) The most humanlike Democracy System rooted a type of Japanese social trust](for_english_language/small-talk-with-x-grok-the-most-humanlike-democracy-system-rooted-a-type-of-japanese-social-trust.md)
 
 ## Small\_Talk\_With\_Google\_Gemini
 
@@ -29,13 +29,3 @@
 * [令和8年4月24日 - One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-24-ri-one-month-left-my-last-project.md)
 * [令和8年4月23日（木）- One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-23-ri-mu-one-month-left-my-last-project.md)
 * [令和8年4月21日 - One Month Left My Last Project](develope_retrospective/ling-he-8-nian-4-yue-21-ri-one-month-left-my-last-project.md)
-
-## 日記
-
-* [令和8年4月24日](ri-ji/ling-he-8-nian-4-yue-24-ri.md)
-* [令和8年4月18日（土）](ri-ji/ling-he-8-nian-4-yue-18-ri-tu.md)
-* [令和8年4月14日](ri-ji/ling-he-8-nian-4-yue-14-ri.md)
-
-## Garbage
-
-* [마고열(마법고교의 열등생) 한국어 분석](garbage/undefined.md)
