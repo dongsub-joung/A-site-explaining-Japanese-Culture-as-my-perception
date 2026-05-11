@@ -16,13 +16,13 @@
 
 ## Small\_Talk\_With\_Google\_Gemini
 
+* [Fact) Japan is forward + 30 years than South Korea](small_talk_with_google_gemini/fact-japan-is-forward-+-30-years-than-south-korea.md)
 * [What if small talk) If I'm live in Japan](small_talk_with_google_gemini/what-if-small-talk-if-im-live-in-japan.md)
 * [Kと言う国がCと言う国に弱みを握らされているとしよう。Gemini](small_talk_with_google_gemini/ktougactounimiworasareteirutoshiyougemini.md)
 * [Part 2) Kと言う国がCと言う国に弱みを握らされているとしよう, Gemini](small_talk_with_google_gemini/part-2-ktougactounimiworasareteirutoshiyou-gemini.md)
 * [About Rust lang's problems( Dependency Chain with C)](small_talk_with_google_gemini/about-rust-langs-problems-dependency-chain-with-c.md)
 * [AIによって人類(個人)の思考能力が（思考力）減り続けてバカになるのか？](small_talk_with_google_gemini/ainiyottenogariketebakaninarunoka.md)
 * [After Master algorithm, Human-written poem](small_talk_with_google_gemini/after-master-algorithm-human-written-poem.md)
-* [Fact) Japan is forward + 30 years than South Korea](small_talk_with_google_gemini/fact-japan-is-forward-+-30-years-than-south-korea.md)
 
 ## Develope\_Retrospective&#x20;
 
