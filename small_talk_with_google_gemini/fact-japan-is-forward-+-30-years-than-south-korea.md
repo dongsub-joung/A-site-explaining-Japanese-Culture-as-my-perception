@@ -6,6 +6,6 @@
 
 Why Human being loves Japan?\
 Cuz Japan is a human like who really is living on human being with trust and love( > yayashisa )\
-That human like born from that experience (1980s)
+That human born from that old satoru experience (1980s)
 
 * high capitalism, but there are nothing (Japanese old people, anyone knows that) -> yotori
